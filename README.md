@@ -117,7 +117,7 @@ mqttsmarthome/hm2mqtt
 #### Usage (architecture: armhf)
 - pull the image to your machine, or if you are on a swarm to each node
 ```
-docker pull mqttsmarthome/hm2mqtt:armhf
+docker pull mqttsmarthome/hm2mqtt_armhf
 ```
 - follow the description above (architecture: amd64), but leave out the pull sequence mentioned there.
 
